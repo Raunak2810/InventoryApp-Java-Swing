@@ -7,7 +7,7 @@ Desktop application built with **Java Swing** and **SQLite (JDBC)** for tracking
 
 | Products | Stock Entry |
 | --- | --- |
-| ![Products](products.png) | ![Stock Entry](stock.png) |
+| ![Products](product.png) | ![Stock Entry](stock.png) |
 
 | Checkout | Reports |
 | --- | --- |
