@@ -22,7 +22,7 @@ public class DBHelper{
         String stockLog = "CREATE TABLE IF NOT EXISTS stock_log (" +
                 "id INTEGER PRIMARY KEY AUTOINCREMENT," +
                 "product_id INTEGER," +
-                "type TEXT," + // "IN" or "OUT"
+                "type TEXT," + 
                 "qty INTEGER," +
                 "log_date TEXT," +
                 "FOREIGN KEY(product_id) REFERENCES products(id)" +

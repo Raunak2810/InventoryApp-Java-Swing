@@ -1,9 +1,3 @@
-*.class
 bin/
-
-inventory.db
-receipt_*.txt
-
-.vscode/
-
+*.class
 .DS_Store
