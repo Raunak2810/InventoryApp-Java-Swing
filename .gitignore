@@ -1,3 +1,6 @@
 bin/
 *.class
 .DS_Store
+receipt_*.txt
+.vscode/
+inventory.db
